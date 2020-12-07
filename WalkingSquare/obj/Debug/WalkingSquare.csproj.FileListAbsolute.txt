@@ -1,0 +1,7 @@
+C:\Users\fhuchin\source\repos\WalkingSquare\WalkingSquare\bin\Debug\WalkingSquare.exe.config
+C:\Users\fhuchin\source\repos\WalkingSquare\WalkingSquare\bin\Debug\WalkingSquare.exe
+C:\Users\fhuchin\source\repos\WalkingSquare\WalkingSquare\bin\Debug\WalkingSquare.pdb
+C:\Users\fhuchin\source\repos\WalkingSquare\WalkingSquare\obj\Debug\WalkingSquare.csprojAssemblyReference.cache
+C:\Users\fhuchin\source\repos\WalkingSquare\WalkingSquare\obj\Debug\WalkingSquare.csproj.CoreCompileInputs.cache
+C:\Users\fhuchin\source\repos\WalkingSquare\WalkingSquare\obj\Debug\WalkingSquare.exe
+C:\Users\fhuchin\source\repos\WalkingSquare\WalkingSquare\obj\Debug\WalkingSquare.pdb
